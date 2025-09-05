@@ -15,8 +15,6 @@ Bem-vindo ao repositório oficial do **Time de Inovação da Santa Casa de Franc
 
 O **Time de Inovação** tem como propósito **transformar o hospital por meio da tecnologia e da cultura ágil**, promovendo soluções que impactem positivamente a vida dos pacientes, a rotina dos profissionais e a gestão hospitalar.
 
-> **"Inovar em saúde é salvar vidas de formas cada vez mais inteligentes e humanas."**
-
 ---
 
 ## 🌟 Nossos Valores
@@ -44,25 +42,6 @@ const nossosValores = {
 | 🤖 **Inteligência Artificial**     | Modelos preditivos para otimização de recursos e análise avançada de dados clínicos e operacionais.|
 
 > Trabalhamos com metodologias ágeis, focados em entregas contínuas, aprendizado rápido e adaptação às necessidades reais.
-
----
-
-## 🔍 Nosso Papel
-
-Nosso setor é o **motor da transformação digital e cultural do hospital**, atuando para que a inovação:
-
-- **Melhore a qualidade e segurança do atendimento**, reduzindo erros e tempo de espera.
-- **Otimize recursos e processos**, aumentando a eficiência operacional.
-- **Promova uma cultura colaborativa e aberta à mudança** em todas as áreas da instituição.
-- **Incorpore novas tecnologias com responsabilidade**, respeitando normas e regulamentações.
-
-**Atividades-chave:**
-
-- **Mapeamento de demandas e oportunidades** junto aos profissionais e pacientes.
-- **Pesquisa e avaliação de soluções tecnológicas** inovadoras.
-- **Desenvolvimento de protótipos, pilotos e testes em ambiente real.**
-- **Capacitação e engajamento das equipes para adoção das inovações.**
-- **Monitoramento contínuo dos resultados e indicadores.**
 
 ---
 
@@ -104,26 +83,6 @@ Nosso setor é o **motor da transformação digital e cultural do hospital**, at
     </td>
   </tr>
 </table>
-
----
-
-## ⚠️ Desafios e Compromissos
-
-- Vencer a **resistência cultural** à adoção de novas tecnologias.  
-- Garantir **segurança e privacidade** dos dados (conformidade com LGPD e normas da ANVISA/CFM).  
-- Trabalhar com **orçamentos limitados**, buscando sempre soluções custo-benefício.  
-- Integrar sistemas legados com novas plataformas.  
-- Manter **foco no paciente**, garantindo que a tecnologia sempre apoie o cuidado humano.
-
----
-
-## 🌟 Nossa Visão de Futuro
-
-Nosso compromisso é ser **referência nacional em inovação hospitalar**, integrando tecnologia e cuidado humano para:
-
-- Aumentar a eficiência sem perder a empatia.  
-- Oferecer atendimento personalizado baseado em dados reais.  
-- Criar um ambiente hospitalar mais seguro, conectado e sustentável.
 
 ---
 
