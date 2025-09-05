@@ -68,45 +68,42 @@ Nosso setor é o **motor da transformação digital e cultural do hospital**, at
 
 ## 🧠 Sobre o Time
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); gap: 20px; margin: 20px 0;">
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center; background: #f9f9f9;">
-  <h3>👨‍💻 Guilherme Ribeiro</h3>
-  <p><strong>CTO</strong></p>
-  <p>Gerente dos Projetos de Inovação, alinhando tecnologia com objetivos estratégicos.</p>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center; background: #f9f9f9;">
-  <h3>👩‍💻 Fernanda Nalesso</h3>
-  <p><strong>LPM - Innovation</strong></p>
-  <p>Gestão dos Produtos de Inovação e relacionamento com stakeholders internos e externos.</p>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center; background: #f9f9f9;">
-  <h3>👨‍💻 Antonio Sérgio</h3>
-  <p><strong>Tech Lead</strong></p>
-  <p>Arquitetura de sistemas e liderança técnica, garantindo a qualidade e escalabilidade das soluções.</p>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center; background: #f9f9f9;">
-  <h3>👩‍💻 Kenidy Corrêa</h3>
-  <p><strong>Developer</strong></p>
-  <p>Desenvolvimento Full Stack focado em inovação e integração entre sistemas.</p>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center; background: #f9f9f9;">
-  <h3>👨‍💻 Arthur Cesar</h3>
-  <p><strong>Trainee Developer</strong></p>
-  <p>Desenvolvimento e documentação técnica, apoiando o time em soluções ágeis.</p>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center; background: #f9f9f9;">
-  <h3>👩‍💻 Felipe Rezende</h3>
-  <p><strong>Trainee Developer</strong></p>
-  <p>Desenvolvimento e documentação técnica, apoiando o time em soluções ágeis.</p>
-</div>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="300">
+      <h3>👨‍💻 Guilherme Ribeiro</h3>
+      <p><strong>CTO</strong></p>
+      <p>Gerente dos Projetos de Inovação, alinhando tecnologia com objetivos estratégicos.</p>
+    </td>
+    <td align="center" width="300">
+      <h3>👩‍💻 Fernanda Nalesso</h3>
+      <p><strong>LPM - Innovation</strong></p>
+      <p>Gestão dos Produtos de Inovação e relacionamento com stakeholders internos e externos.</p>
+    </td>
+    <td align="center" width="300">
+      <h3>👨‍💻 Antonio Sérgio</h3>
+      <p><strong>Tech Lead</strong></p>
+      <p>Arquitetura de sistemas e liderança técnica, garantindo a qualidade e escalabilidade das soluções.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <h3>👩‍💻 Kenidy Corrêa</h3>
+      <p><strong>Developer</strong></p>
+      <p>Desenvolvimento Full Stack focado em inovação e integração entre sistemas.</p>
+    </td>
+    <td align="center" width="300">
+      <h3>👨‍💻 Arthur Cesar</h3>
+      <p><strong>Trainee Developer</strong></p>
+      <p>Desenvolvimento e documentação técnica, apoiando o time em soluções ágeis.</p>
+    </td>
+    <td align="center" width="300">
+      <h3>👩‍💻 Felipe Rezende</h3>
+      <p><strong>Trainee Developer</strong></p>
+      <p>Desenvolvimento e documentação técnica, apoiando o time em soluções ágeis.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
